@@ -80,10 +80,10 @@ body{
 
 @media(max-width:675px){
     .hed2{
-       display: block;
+        display: block;
         border-radius: 20px;
         padding: 10px;
-       font-size: 12px;
+        font-size: 12px;
         padding: 10px 3px 0px 3px;
         text-align: center;
         
